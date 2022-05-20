@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniolmcandido" alt="antoniolmcandido" /></a> </p>
 
-- 🔭 I’m currently working on [fragrant framework](https://github.com/antoniolmcandido/fragrant)
+- 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
 
 - 📫 How to reach me **antoniolmcandido.com**
 
