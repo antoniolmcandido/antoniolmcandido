@@ -9,7 +9,7 @@
 
 - 📫 How to reach me [antoniolmcandido.com](https://antoniolmcandido.com)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif alt="antoniolmcandido" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="antoniolmcandido" /></p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a>
 
