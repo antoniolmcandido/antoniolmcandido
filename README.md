@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /> </p>
 
 <div style="text-align: center;">
-    <img src="images/cjovem-banner.jpg" style="width: 75%;"/>  
+    <img src="images/cjovem-banner.jpg" style="width: 100%;"/>  
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniolmcandido&rank=-?&title=-Issues" alt="antoniolmcandido" /></a> </p>
