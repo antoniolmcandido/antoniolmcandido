@@ -3,13 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniolmcandido&rank=-?" alt="antoniolmcandido" /></a> </p>
+<div style="text-align: center;">
+    <img src="images/cjovem-banner.jpg" style="width: 75%;"/>  
+</div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniolmcandido&rank=-?&title=-Issues" alt="antoniolmcandido" /></a> </p>
 
 - 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
 
 - 📫 How to reach me [antoniolmcandido.com](https://antoniolmcandido.com)
 
-<p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a>
+<p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a></p>
 
 <p align="center"><img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="antoniolmcandido" /></p>
 
