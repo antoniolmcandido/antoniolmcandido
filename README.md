@@ -3,9 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /> </p>
 
-<div style="text-align: center;">
-    <img src="images/cjovem-banner.jpg" style="width: 100%;"/>  
-</div>
+<a href="https://www.uece.br/agin/projetos/residencia-em-tic-20-capacita-brasil-c-jovem" target="_blank"><img src="images/cjovem-banner.jpg" style="width: 100%;"/></a>  
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniolmcandido&rank=-?&title=-Issues" alt="antoniolmcandido" /></a> </p>
 
