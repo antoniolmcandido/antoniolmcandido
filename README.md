@@ -14,11 +14,11 @@
 
 <p align="center"><img style="margin-bottom: 20px" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></p>
 
-<h2>Languages and Tools:</h2>
+<h2>🛠 Languages and Tools:</h2>
 
 [![Languages and Tools](https://skillicons.dev/icons?i=ai,sklearn,opencv,python,r,php,java,ruby,julia,nodejs,npm,yarn,c,cpp,javascript,css,html,sass,mysql,postgres,sqlite,mongo,linux,windows,aws,googlecloud,azure,nginx,tensorflow,pytorch,django,flask,git,github,gitlab,laravel,jquery,nest,next,react,typescript,tailwind,bootstrap,vue,vite,alpinejs,cloudflare,discord,docker,figma,vscode,eclipse,idea,phpstorm,webstorm,pycharm,latex,matlab,octave,md,linkedin,notion,obsidian,sublime,postman,arduino,raspberrypi,redis,redux,regex,stackoverflow,vercel,vim,webflow,wordpress)](https://skillicons.dev)
 
-<h2>Github Stats: <h2/>
+<h2>📊 Github Stats: <h2/>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniolmcandido&show_icons=true&theme=highcontrast&title_color=6699cc&text_color=ffffff&bg_color=222422&hide_border=true&locale=en&layout=compact" alt="antoniolmcandido" /></p>
 
