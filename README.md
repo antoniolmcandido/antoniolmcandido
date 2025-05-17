@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a></p>
 
-<img style="margin-bottom: 20px" align="right" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif">
+<p align="center"><img style="margin-bottom: 20px" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></p>
 
 <h2>Languages and Tools:</h2>
 
