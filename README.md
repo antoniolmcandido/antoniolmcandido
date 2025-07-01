@@ -14,6 +14,8 @@
 
 <p align="center"><img style="margin-bottom: 20px" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></p>
 
+<a href="https://drive.google.com/file/d/1Rhaql5PcxiMCfYJdnjZreuXH9VLuJ9ID/view" target="_blank"><img src="images/sic1.png" style="width: 100%;"/></a>
+
 <h2>🛠 Languages and Tools:</h2>
 
 [![Languages and Tools](https://skillicons.dev/icons?i=ai,sklearn,opencv,python,r,php,java,ruby,julia,nodejs,npm,yarn,c,cpp,javascript,css,html,sass,mysql,postgres,sqlite,mongo,linux,windows,aws,googlecloud,azure,nginx,tensorflow,pytorch,django,flask,git,github,gitlab,laravel,jquery,nest,next,react,typescript,tailwind,bootstrap,vue,vite,alpinejs,cloudflare,discord,docker,figma,vscode,eclipse,idea,phpstorm,webstorm,pycharm,latex,matlab,octave,md,linkedin,notion,obsidian,sublime,postman,arduino,raspberrypi,redis,redux,regex,stackoverflow,vercel,vim,webflow,wordpress)](https://skillicons.dev)
