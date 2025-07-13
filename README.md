@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Candido</h1>
 <h2 align="center">Computer Scientist 🧑‍💻</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /> </p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /></a> </p>
 
 <a href="https://github.com/capacitabrasil" target="_blank"><img src="images/cjovem-banner.jpg" style="width: 100%;"/></a>  
 
@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a></p>
 
-<p align="center"><img style="margin-bottom: 20px" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img style="margin-bottom: 20px" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></a> </p>
 
 <a href="https://github.com/sicbrasil" target="_blank"><img src="images/sic1.png" style="width: 100%;"/></a>
 
@@ -22,8 +22,8 @@
 
 <h2>📊 Github Stats: <h2/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniolmcandido&show_icons=true&theme=highcontrast&title_color=6699cc&text_color=ffffff&bg_color=222422&hide_border=true&locale=en&layout=compact" alt="antoniolmcandido" /></p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniolmcandido&show_icons=true&theme=highcontrast&title_color=6699cc&text_color=ffffff&bg_color=222422&hide_border=true&locale=en&layout=compact" alt="antoniolmcandido" /></a> </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniolmcandido&" alt="antoniolmcandido" /></p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniolmcandido&" alt="antoniolmcandido" /></a> </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="antoniolmcandido" /></p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="antoniolmcandido" /></a> </p>
