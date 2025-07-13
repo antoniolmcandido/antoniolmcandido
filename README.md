@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /> </p>
 
-<a href="https://www.uece.br/agin/projetos/residencia-em-tic-20-capacita-brasil-c-jovem" target="_blank"><img src="images/cjovem-banner.jpg" style="width: 100%;"/></a>  
+<a href="https://github.com/capacitabrasil" target="_blank"><img src="images/cjovem-banner.jpg" style="width: 100%;"/></a>  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniolmcandido&rank=-?&title=-Issues" alt="antoniolmcandido" /></a> </p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-profile-trophy.vercel.app/?username=antoniolmcandido&rank=-?&title=-Issues" alt="antoniolmcandido" /></a> </p>
 
 - 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
 - 📫 How to reach me [antoniolmcandido.com](https://antoniolmcandido.com)
@@ -14,7 +14,7 @@
 
 <p align="center"><img style="margin-bottom: 20px" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></p>
 
-<a href="https://drive.google.com/file/d/1Rhaql5PcxiMCfYJdnjZreuXH9VLuJ9ID/view" target="_blank"><img src="images/sic1.png" style="width: 100%;"/></a>
+<a href="https://github.com/sicbrasil" target="_blank"><img src="images/sic1.png" style="width: 100%;"/></a>
 
 <h2>🛠 Languages and Tools:</h2>
 
