@@ -26,4 +26,10 @@
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniolmcandido&" alt="antoniolmcandido" /></a> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniolmcandido/antoniolmcandido/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoniolmcandido/antoniolmcandido/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/antoniolmcandido/antoniolmcandido/output/pacman-contribution-graph.svg">
+</picture>
+
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="antoniolmcandido" /></a> </p>
