@@ -14,6 +14,15 @@
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img style="margin-bottom: 20px" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></a> </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Samsung+Innovation+Campus;IFCE+Caucaia+-+2025" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
+
 <a href="https://github.com/sicbrasil" target="_blank"><img src="images/sic1.png" style="width: 100%;"/></a>
 
 <h2>🛠 Languages and Tools:</h2>
