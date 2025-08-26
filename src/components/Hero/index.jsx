@@ -20,7 +20,7 @@ const HeroOverlay = styled.div`
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('/images/bg-pattern.svg');
+  background: url('./images/bg-pattern.svg');
   opacity: 0.1;
   z-index: 1;
 `;

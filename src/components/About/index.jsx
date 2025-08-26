@@ -148,7 +148,7 @@ const About = () => {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <img src="images/about-img.webp" alt="Candido" />
+          <img src="./images/about-img.webp" alt="Candido" />
         </ImageContainer>
         
         <ContentContainer>
