@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /></a> </p>
 
-<a href="https://github.com/capacitabrasil" target="_blank"><img src="images/cjovem-banner.jpg" style="width: 100%;"/></a>  
+<a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/cjovem-banner.jpg" style="width: 100%;"/></a>  
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-profile-trophy.vercel.app/?username=antoniolmcandido&rank=-?&title=-Issues" alt="antoniolmcandido" /></a> </p>
 
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<a href="https://github.com/sicbrasil" target="_blank"><img src="images/sic1.png" style="width: 100%;"/></a>
+<a href="https://github.com/sicbrasil" target="_blank"><img src="public/images/sic1.png" style="width: 100%;"/></a>
 
 <h2>🛠 Languages and Tools:</h2>
 
