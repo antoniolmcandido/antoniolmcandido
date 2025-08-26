@@ -128,7 +128,7 @@ const Hero = () => {
           transition={{ duration: 1 }}
         >
           <ProfileImage 
-            src="/images/picture.webp" 
+            src="./images/picture.webp" 
             alt="Candido"
             initial={{ scale: 0, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
