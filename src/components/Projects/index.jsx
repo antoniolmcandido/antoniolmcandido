@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import styled from 'styled-components';
-import { FaCloud, FaMobile, FaLaptop, FaCompass, FaComment, FaGlobe } from 'react-icons/fa';
+import { FaCloud, FaMobile, FaLaptop, FaCompass, FaComment, FaGlobe, FaBookOpen, FaBookReader } from 'react-icons/fa';
 
 const ProjectsSection = styled.section`
   padding: 6rem 2rem;
@@ -103,16 +103,16 @@ const Projects = () => {
     {
       id: 1,
       icon: <FaCloud />,
-      title: 'WEB MARKETING',
-      description: 'Inclusão de Empresas na rede mundial de computadores, utilizando ótimas ferramentas e técnicas para alcançar os melhores resultados.',
+      title: 'DESENVOLVIMENTO WEB',
+      description: 'Inclusão de empresas na rede mundial de computadores, utilizando ótimas ferramentas e técnicas para alcançar os melhores resultados.',
       link: null
     },
     {
       id: 2,
-      icon: <FaMobile />,
-      title: 'RESPONSIVIDADE',
-      description: 'Sites que se adequadam aos mais variados tamanhos de telas, sejam computadores, tablets ou smartphones.',
-      link: null
+      icon: <FaBookReader />,
+      title: 'AULAS PARTICULARES',
+      description: 'Aulas personalizadas para atender às necessidades específicas de cada aluno sobre diversas disciplinas de ciência da computação.',
+      link: 'https://www.superprof.com.br/salto-seus-estudos-com-aulas-python-php-java-web-sql-outras-linguagens-meu-metodo-ensino-desenvolvido.html'
     },
     {
       id: 3,
