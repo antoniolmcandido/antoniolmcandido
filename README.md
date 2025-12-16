@@ -33,7 +33,7 @@
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniolmcandido&show_icons=true&theme=highcontrast&title_color=6699cc&text_color=ffffff&bg_color=222422&hide_border=true&locale=en&layout=compact" alt="antoniolmcandido" /></a> </p>
 
-<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniolmcandido" alt="antoniolmcandido" /></a> </p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://streak-stats.demolab.com/?user=antoniolmcandido" alt="antoniolmcandido" /></a> </p>
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="profile-3d-contrib/profile-gitblock.svg" alt="antoniolmcandido" /></a> </p>
 
