@@ -29,7 +29,7 @@
 
 <h2>📊 Github Stats: <h2/>
 
-<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniolmcandido&show_icons=true&theme=highcontrast&title_color=6699cc&text_color=ffffff&bg_color=222422&hide_border=true&locale=en&layout=compact" alt="antoniolmcandido" /></a> </p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-stats.vercel.app/api?username=antoniolmcandido&show_icons=true&theme=dark" alt="antoniolmcandido" /></a> </p>
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="profile-3d-contrib/profile-gitblock.svg" alt="antoniolmcandido" /></a> </p>
 
