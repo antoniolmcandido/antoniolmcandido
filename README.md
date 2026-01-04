@@ -31,7 +31,8 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=antoniolmcandido&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=antoniolmcandido&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoniolmcandido&layout=compact&theme=github_dark)
+
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoniolmcandido&layout=compact&theme=github_dark"></a> </p>
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="profile-3d-contrib/profile-gitblock.svg" alt="antoniolmcandido" /></a> </p>
 
