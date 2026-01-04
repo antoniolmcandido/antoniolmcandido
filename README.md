@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a></p>
 
-<p align="center"> <a href="https://antoniolmcandido.com"><img style="margin-bottom: 20px" alt="programmer" width="300" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></a> </p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img style="margin-bottom: 20px" alt="antoniolmcandido" width="400" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></a> </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -25,12 +25,13 @@
 
 <h2>🛠 Languages and Tools:</h2>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=ai,sklearn,opencv,python,r,php,java,ruby,julia,nodejs,npm,yarn,c,cpp,javascript,css,html,sass,mysql,postgres,sqlite,mongo,linux,windows,aws,googlecloud,azure,nginx,tensorflow,pytorch,django,flask,git,github,gitlab,laravel,jquery,nest,next,react,typescript,tailwind,bootstrap,vue,vite,alpinejs,cloudflare,discord,docker,figma,vscode,eclipse,idea,phpstorm,webstorm,pycharm,latex,matlab,octave,md,linkedin,notion,obsidian,sublime,postman,arduino,raspberrypi,redis,redux,regex,stackoverflow,vercel,vim,webflow,wordpress)](https://skillicons.dev)
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://skillicons.dev/icons?i=ai,sklearn,opencv,python,r,php,java,ruby,julia,nodejs,npm,yarn,c,cpp,javascript,css,html,sass,mysql,postgres,sqlite,mongo,linux,windows,aws,googlecloud,azure,nginx,tensorflow,pytorch,django,flask,git,github,gitlab,laravel,jquery,nest,next,react,typescript,tailwind,bootstrap,vue,vite,alpinejs,cloudflare,discord,docker,figma,vscode,eclipse,idea,phpstorm,webstorm,pycharm,latex,matlab,octave,md,linkedin,notion,obsidian,sublime,postman,arduino,raspberrypi,redis,redux,regex,stackoverflow,vercel,vim,webflow,wordpress"></a> </p>
 
 <h2>📊 Github Stats: <h2/>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=antoniolmcandido&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=antoniolmcandido&theme=github_dark)
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=antoniolmcandido&theme=github_dark"></a> </p>
+
+<p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-stats-fast.vercel.app/api?username=antoniolmcandido&show_icons=true&theme=github_dark"></a> </p>
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoniolmcandido&layout=compact&theme=github_dark"></a> </p>
 
