@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a></p>
 
-<p align="center"> <a href="https://antoniolmcandido.com"><img style="margin-bottom: 20px" alt="programmer" width="220" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></a> </p>
+<p align="center"> <a href="https://antoniolmcandido.com"><img style="margin-bottom: 20px" alt="programmer" width="300" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></a> </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
