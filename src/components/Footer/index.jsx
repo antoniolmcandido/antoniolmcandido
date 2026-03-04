@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import styled from 'styled-components';
 import { FaLinkedinIn, FaGithub, FaInstagram, FaTelegram, FaFacebook, FaDropbox } from 'react-icons/fa';
+import 'academicons/css/academicons.min.css'
 
 const FooterSection = styled.footer`
   padding: 3rem 2rem;
@@ -60,12 +61,16 @@ const Copyright = styled.p`
 
 const Footer = () => {
   const socialLinks = [
-    { id: 1, icon: <FaLinkedinIn />, url: 'https://linkedin.com/in/antoniolmcandido', delay: 0.9 },
-    { id: 2, icon: <FaGithub />, url: 'https://github.com/antoniolmcandido', delay: 0.9 },
-    { id: 3, icon: <FaInstagram />, url: 'https://instagram.com/antoniolmcandido', delay: 0.6 },
-    { id: 4, icon: <FaTelegram />, url: 'https://t.me/antoniolmcandido', delay: 0.9 },
-    { id: 5, icon: <FaFacebook />, url: 'https://facebook.com/antoniolmcandido', delay: 0.3 },
-    { id: 6, icon: <FaDropbox />, url: 'https://bit.ly/antoniolmcandidobox', delay: 0.9 }
+    { id: 1, icon: <i className="ai ai-lattes" />, url: 'https://lattes.cnpq.br/1979480990064707', delay: 0.9 },
+    { id: 2, icon: <i className="ai ai-google-scholar" />, url: 'https://scholar.google.com.br/citations?user=5Hg2Z44AAAAJ&hl', delay: 0.9 },
+    { id: 3, icon: <i className="ai ai-orcid" />, url: 'https://orcid.org/0000-0001-5839-0273', delay: 0.9 },
+    { id: 4, icon: <i className="ai ai-arxiv" />, url: 'https://arxiv.org/search/cs?searchtype=author&query=Candido,+A+L+M', delay: 0.9 },
+    { id: 5, icon: <FaLinkedinIn />, url: 'https://linkedin.com/in/antoniolmcandido', delay: 0.9 },
+    { id: 6, icon: <FaGithub />, url: 'https://github.com/antoniolmcandido', delay: 0.9 },
+    { id: 7, icon: <FaInstagram />, url: 'https://instagram.com/antoniolmcandido', delay: 0.9 },
+    { id: 8, icon: <FaFacebook />, url: 'https://facebook.com/antoniolmcandido', delay: 0.9 },
+    { id: 9, icon: <FaTelegram />, url: 'https://t.me/antoniolmcandido', delay: 0.9 },
+    { id: 10, icon: <FaDropbox />, url: 'https://bit.ly/antoniolmcandidobox', delay: 0.9 },
   ];
 
   const containerVariants = {
