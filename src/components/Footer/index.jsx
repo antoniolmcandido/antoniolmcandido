@@ -70,7 +70,7 @@ const Footer = () => {
     { id: 7, icon: <FaInstagram />, url: 'https://instagram.com/antoniolmcandido', delay: 0.9 },
     { id: 8, icon: <FaFacebook />, url: 'https://facebook.com/antoniolmcandido', delay: 0.9 },
     { id: 9, icon: <FaTelegram />, url: 'https://t.me/antoniolmcandido', delay: 0.9 },
-    { id: 10, icon: <FaDropbox />, url: 'https://bit.ly/antoniolmcandidobox', delay: 0.9 },
+    { id: 10, icon: <FaDropbox />, url: 'https://www.dropbox.com/scl/fo/yhl152p1oxlp03nzkwchn/ANBzae6PGI4jRq_oJOvOLjw?rlkey=wc2neq9payki9vnmkwyplmrmj&e=1&dl=0', delay: 0.9 },
   ];
 
   const containerVariants = {
