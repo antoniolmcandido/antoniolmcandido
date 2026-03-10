@@ -5,6 +5,8 @@
 
 <a href="https://github.com/ladesc" target="_blank"><img src="public/images/ppgcc.png" style="width: 100%;"/></a> 
 
+<a href="https://ldiuece.com.br/" target="_blank"><img src="public/images/ldi.png" style="width: 100%;"/></a> 
+
 <a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/cjovem-banner.png" style="width: 100%;"/></a>  
 
 - 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
