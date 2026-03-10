@@ -3,11 +3,11 @@
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /></a> </p>
 
-<a href="https://github.com/ladesc" target="_blank"><img src="public/images/ppgcc.png" style="width: 100%;"/></a> 
+<a href="https://github.com/ladesc" target="_blank"><img src="public/images/ppgcc.jpg" style="width: 100%;"/></a>
 
-<a href="https://ldiuece.com.br/" target="_blank"><img src="public/images/ldi.png" style="width: 100%;"/></a> 
+<a href="https://ldiuece.com.br/" target="_blank"><img src="public/images/ldi.png" style="width: 100%;"/></a>
 
-<a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/cjovem-banner.png" style="width: 100%;"/></a>  
+<a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/cjovem-banner.png" style="width: 100%;"/></a>
 
 - 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
 - 📫 How to reach me [antoniolmcandido.com](https://antoniolmcandido.com)
