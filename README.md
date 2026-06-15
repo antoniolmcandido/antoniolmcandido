@@ -27,7 +27,7 @@
 
 <a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/cjovem-banner.png" style="width: 100%;"/></a>
 
-<a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/empregamais.jpg" style="width: 100%;"/></a>
+<a href="https://empregamais.me" target="_blank"><img src="public/images/empregamais.jpg" style="width: 100%;"/></a>
 
 <h2>🛠 Languages and Tools:</h2>
 
