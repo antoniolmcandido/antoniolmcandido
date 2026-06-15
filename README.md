@@ -3,29 +3,29 @@
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /></a> </p>
 
-<a href="https://github.com/ladesc" target="_blank"><img src="public/images/ppgcc.jpg" style="width: 100%;"/></a>
-
-<a href="https://ldiuece.com.br/" target="_blank"><img src="public/images/ldi.png" style="width: 100%;"/></a>
-
-<a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/cjovem-banner.png" style="width: 100%;"/></a>
-
 - 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
 - 📫 How to reach me [antoniolmcandido.com](https://antoniolmcandido.com)
 
 <p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a></p>
+
+<a href="https://github.com/ladesc" target="_blank"><img src="public/images/ppgcc.jpg" style="width: 100%;"/></a>
+
+<a href="https://ldiuece.com.br/" target="_blank"><img src="public/images/ldi.png" style="width: 100%;"/></a>
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img style="margin-bottom: 20px" alt="antoniolmcandido" width="400" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></a> </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Samsung+Innovation+Campus;IFCE+Caucaia+-+2025" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Samsung+Innovation+Campus;IFCE+Caucaia+-+2026" 
       alt="Typing SVG" 
     />
   </a>
 </p>
 
 <a href="https://github.com/sicbrasil" target="_blank"><img src="public/images/sic1.png" style="width: 100%;"/></a>
+
+<a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/cjovem-banner.png" style="width: 100%;"/></a>
 
 <h2>🛠 Languages and Tools:</h2>
 
