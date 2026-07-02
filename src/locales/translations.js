@@ -58,7 +58,7 @@ export const translations = {
         work: 'ATUAÇÃO'
       },
       education: {
-        p1: 'Doutorando em Ciência da Computação pela Universidade Estadual do Ceará - UECE, Mestre e Bacharel em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE.',
+        p1: 'Doutor em Ciência da Computação pela Universidade Estadual do Ceará - UECE, Mestre e Bacharel em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE.',
         p2: 'Meus interesses de pesquisa e produções estão nas áreas de Ciência de Dados, Linguagens de Programação, Desenvolvimento Web e Sistemas Embarcados.'
       },
       work: {
@@ -130,7 +130,7 @@ export const translations = {
         work: 'EXPERIENCE'
       },
       education: {
-        p1: 'PhD student in Computer Science at the State University of Ceará - UECE, Master and Bachelor in Computer Science from the Federal Institute of Education, Science and Technology of Ceará - IFCE.',
+        p1: 'PhD in Computer Science at the State University of Ceará - UECE, Master and Bachelor in Computer Science from the Federal Institute of Education, Science and Technology of Ceará - IFCE.',
         p2: 'My research interests and productions are in the areas of Data Science, Programming Languages, Web Development and Embedded Systems.'
       },
       work: {
