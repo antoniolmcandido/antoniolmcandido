@@ -10,7 +10,9 @@
 
 <a href="https://github.com/ladesc" target="_blank"><img src="public/images/ppgcc.jpg" style="width: 100%;"/></a>
 
-<a href="https://ldiuece.com.br/" target="_blank"><img src="public/images/ldi.png" style="width: 100%;"/></a>
+<a href="https://ldiuece.com.br" target="_blank"><img src="public/images/ldi.png" style="width: 100%;"/></a>
+
+<a href="https://institutocais.org.br" target="_blank"><img src="public/images/cais.jpg" style="width: 100%;"/></a>
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img style="margin-bottom: 20px" alt="antoniolmcandido" width="400" src="https://tenor.com/pt-BR/view/coding-gif-18657810.gif"></a> </p>
 
