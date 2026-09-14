@@ -8,8 +8,6 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/antoniolmcandido" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link"/></a></p>
 
-<a href="https://github.com/ladesc" target="_blank"><img src="public/images/ppgcc.jpg" style="width: 100%;"/></a>
-
 <a href="https://ldiuece.com.br" target="_blank"><img src="public/images/ldi.png" style="width: 100%;"/></a>
 
 <a href="https://institutocais.org.br" target="_blank"><img src="public/images/cais.jpg" style="width: 100%;"/></a>
@@ -28,6 +26,8 @@
 <a href="https://github.com/sicbrasil" target="_blank"><img src="public/images/sic1.png" style="width: 100%;"/></a>
 
 <a href="https://github.com/capacitabrasil" target="_blank"><img src="public/images/cjovem-banner.png" style="width: 100%;"/></a>
+
+<a href="https://github.com/ladesc" target="_blank"><img src="public/images/ppgcc.jpg" style="width: 100%;"/></a>
 
 <a href="https://empregamais.me" target="_blank"><img src="public/images/empregamais.jpg" style="width: 100%;"/></a>
 
