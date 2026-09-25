@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Candido</h1>
+<h1 align="center">Hi 👋, I'm Dr. Candido</h1>
 <h2 align="center">Computer Scientist 🧑‍💻</h2>
 
 <p align="center"> <a href="https://antoniolmcandido.com"><img src="https://komarev.com/ghpvc/?username=antoniolmcandido&label=Profile%20views&color=0e75b6&style=flat" alt="antoniolmcandido" /></a> </p>
